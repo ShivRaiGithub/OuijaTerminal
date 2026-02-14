@@ -1,12 +1,23 @@
 {
   "name": "ouija-terminal",
   "version": "0.1.0",
+  "description": "A cursed browser-based horror terminal experience. Type commands to interact with spirits, open portals, and descend into digital madness.",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
+  "keywords": [
+    "horror",
+    "terminal",
+    "interactive",
+    "nextjs",
+    "typescript",
+    "occult",
+    "retro",
+    "crt"
+  ],
   "dependencies": {
     "next": "16.1.6",
     "react": "19.2.3",
